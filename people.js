@@ -5,7 +5,7 @@ const {hobbies} = require('./hobbies.js')
 
 //const fullName =fullName("Marco","Rossi")
 
-console.log({fullName}("mario","rossi"));
+console.log(fullName("mario","rossi"));
 
 
 
