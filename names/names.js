@@ -7,4 +7,4 @@ function fullName(firstName, LastName) {
     console.log(person);
     
 }
-module.export = fullName
+module.exports = fullName
