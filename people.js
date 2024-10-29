@@ -1,11 +1,13 @@
 
-const names = require('./names.js')
-const hobbies = require('./hobbies.js')
+const {fullName} = require('./names.js')
+const {hobbies} = require('./hobbies.js')
 
-const fullName =fullName("Marco","Rossi")
-const hobbie = hobbies("basket","TCG","gaming")
 
-console.log(fullName);
+//const fullName =fullName("Marco","Rossi")
+
+console.log({fullName}("mario","rossi"));
+
+
 
 function peopleHobbies() {
  
