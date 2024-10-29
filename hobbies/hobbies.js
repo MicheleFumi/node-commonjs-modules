@@ -9,3 +9,5 @@ function hobbies(hobbieOne, hobbieTwo, hobbieThree) {
 }
 
 console.log(hobbies("football","tennis","videogames"));
+
+module.export = hobbies
