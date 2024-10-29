@@ -10,4 +10,4 @@ function hobbies(hobbieOne, hobbieTwo, hobbieThree) {
 }
 
 
-module.exports = hobbies
+module.exports = {hobbies}
