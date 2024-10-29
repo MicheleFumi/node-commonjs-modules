@@ -5,7 +5,7 @@ function fullName(firstName, LastName) {
         "name": firstName,
         "last name": LastName
     }
-    console.log(person);
+    return person
     
 }
 module.exports = {fullName}
